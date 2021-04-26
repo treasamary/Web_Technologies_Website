@@ -1,0 +1,45 @@
+h3{
+    text-align: center;
+    color: #000;
+}
+
+main{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color:#e3f2fd ;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .previous {
+    background-color: #AFE2FF;
+    color: black;
+  }
+  
+  .next {
+    background-color: #AFE2FF;
+    color: black;
+  }
+  
+  .round {
+    border-radius: 50%;
+  }
+  body{
+    background-color: whitesmoke;
+   
+  }
+  footer{
+    background-color:#e3f2fd; ;
+    color:black;
+    height: 2.5em;
+    text-align: center;
+ 
+ }
+  
